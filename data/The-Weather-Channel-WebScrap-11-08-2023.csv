@@ -1,0 +1,16 @@
+Fecha,Pronostico,Temperatura maxima,Temperatura minima,Probabilidad de lluvia,Viento en el dia,Direccion viento dia,Viento en la noche,Direccion viento noche,Humedad dia,Humedad noche,Indice UV dia,Indice UV noche,Amanecer,Puesta solar,Salida lunar,Puesta lunar,Fase lunar
+vie 11,Nubes por la mañana / Sol por la tarde,36,24,15,18,O ,24,O ,35,40,Extremo,0 de 11,06:28:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+sab 12,Parcialmente nublado,36,25,1,15,O ,22,OSO ,34,37,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+dom 13,Parcialmente nublado,36,24,15,13,OSO ,16,NO ,33,42,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+lun 14,Mayormente soleado,36,24,17,25,E ,25,E ,35,36,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+mar 15,Mayormente soleado,37,25,2,20,ESE ,17,ESE ,30,31,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+mie 16,Soleado,38,25,0,12,SE ,12,SSE ,27,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+jue 17,Mayormente soleado,39,25,0,12,SE ,15,E ,23,29,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+vie 18,Mayormente soleado,39,25,3,13,SE ,16,E ,25,30,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:15:00,Nueva visible
+sab 19,Mayormente soleado,38,25,6,14,SSE ,16,E ,26,29,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:40:00,Nueva visible
+dom 20,Mayormente soleado,38,25,3,16,SE ,18,ESE ,25,29,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+lun 21,Mayormente soleado,38,25,3,18,ESE ,21,ESE ,25,30,10 de 11,0 de 11,06:34:00,19:43:00,11:13:00,22:32:00,Nueva visible
+mar 22,Mayormente soleado,37,24,0,18,ESE ,20,E ,26,31,10 de 11,0 de 11,06:35:00,19:42:00,12:11:00,23:03:00,Nueva visible
+mie 23,Mayormente soleado,37,24,10,16,ESE ,18,ESE ,27,30,10 de 11,0 de 11,06:35:00,19:40:00,13:13:00,23:40:00,Cuarto creciente
+jue 24,Mayormente soleado,37,24,0,15,ESE ,18,E ,26,29,10 de 11,0 de 11,06:36:00,19:39:00,14:17:00,,Gibosa creciente
+vie 25,Parcialmente nublado,37,24,23,17,ESE ,17,E ,26,30,10 de 11,0 de 11,06:36:00,19:38:00,15:24:00,00:23:00,Gibosa creciente

@@ -1,0 +1,16 @@
+Fecha,Pronostico,Temperatura maxima,Temperatura minima,Probabilidad de lluvia,Viento en el dia,Direccion viento dia,Viento en la noche,Direccion viento noche,Humedad dia,Humedad noche,Indice UV dia,Indice UV noche,Amanecer,Puesta solar,Salida lunar,Puesta lunar,Fase lunar
+mie 02,Parcialmente nublado,38,25,7,14,SE ,15,SSE ,25,36,Extremo,0 de 11,06:22:00,20:01:00,21:14:00,07:13:00,Gibosa menguante
+jue 03,Mayormente soleado,39,25,3,9,ESE ,12,SE ,29,28,Extremo,0 de 11,06:22:00,20:00:00,21:50:00,08:26:00,Gibosa menguante
+vie 04,Soleado,41,26,0,8,ESE ,14,SE ,21,21,Extremo,0 de 11,06:23:00,19:59:00,22:22:00,09:38:00,Gibosa menguante
+sab 05,Soleado,42,26,0,10,SE ,13,SSE ,17,18,Extremo,0 de 11,06:24:00,19:59:00,22:54:00,10:45:00,Gibosa menguante
+dom 06,Soleado,42,26,0,11,E ,15,SO ,16,17,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+lun 07,Soleado,42,27,4,15,NO ,14,O ,16,18,Extremo,0 de 11,06:25:00,19:57:00,23:58:00,12:55:00,Gibosa menguante
+mar 08,Mayormente soleado,41,26,7,15,NO ,16,O ,17,21,Extremo,0 de 11,06:26:00,19:56:00,,13:59:00,Menguante
+mie 09,Mayormente soleado,41,26,3,16,ONO ,17,O ,18,21,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+jue 10,Mayormente soleado,41,26,2,17,O ,18,ONO ,17,21,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+vie 11,Mayormente soleado,41,26,11,14,ONO ,16,ONO ,18,21,Extremo,0 de 11,06:28:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+sab 12,Parcialmente nublado,40,27,3,14,SE ,16,E ,19,23,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+dom 13,Parcialmente nublado,39,24,13,15,ESE ,18,ESE ,22,28,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+lun 14,Mayormente soleado,38,24,24,15,ESE ,18,E ,25,28,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+mar 15,Mayormente soleado,38,25,24,14,ESE ,17,ESE ,25,28,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+mie 16,Mayormente soleado,38,25,6,17,SE ,19,ESE ,24,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva

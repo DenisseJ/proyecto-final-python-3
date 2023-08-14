@@ -1,0 +1,181 @@
+id,fecha,pronostico,temperatura_maxima,temperatura_minima,probabilidad_lluvia,viento_dia,direccion_viento_dia,viento_noche,direccion_viento_noche,humedad_dia_porcentaje,humedad_noche_porcentaje,indice_UV_dia,indice_UV_noche,amanecer,puesta_solar,salida_lunar,puesta_lunar,fase_lunar
+1,mie 02,Parcialmente nublado,38,25,7,14,SE ,15,SSE ,25,36,Extremo,0 de 11,06:22:00,20:01:00,21:14:00,07:13:00,Gibosa menguante
+2,jue 03,Mayormente soleado,39,25,3,9,ESE ,12,SE ,29,28,Extremo,0 de 11,06:22:00,20:00:00,21:50:00,08:26:00,Gibosa menguante
+3,vie 04,Soleado,41,26,0,8,ESE ,14,SE ,21,21,Extremo,0 de 11,06:23:00,19:59:00,22:22:00,09:38:00,Gibosa menguante
+4,sab 05,Soleado,42,26,0,10,SE ,13,SSE ,17,18,Extremo,0 de 11,06:24:00,19:59:00,22:54:00,10:45:00,Gibosa menguante
+5,dom 06,Soleado,42,26,0,11,E ,15,SO ,16,17,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+6,lun 07,Soleado,42,27,4,15,NO ,14,O ,16,18,Extremo,0 de 11,06:25:00,19:57:00,23:58:00,12:55:00,Gibosa menguante
+7,mar 08,Mayormente soleado,41,26,7,15,NO ,16,O ,17,21,Extremo,0 de 11,06:26:00,19:56:00,,13:59:00,Menguante
+8,mie 09,Mayormente soleado,41,26,3,16,ONO ,17,O ,18,21,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+9,jue 10,Mayormente soleado,41,26,2,17,O ,18,ONO ,17,21,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+10,vie 11,Mayormente soleado,41,26,11,14,ONO ,16,ONO ,18,21,Extremo,0 de 11,06:28:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+11,sab 12,Parcialmente nublado,40,27,3,14,SE ,16,E ,19,23,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+12,dom 13,Parcialmente nublado,39,24,13,15,ESE ,18,ESE ,22,28,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+13,lun 14,Mayormente soleado,38,24,24,15,ESE ,18,E ,25,28,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+14,mar 15,Mayormente soleado,38,25,24,14,ESE ,17,ESE ,25,28,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+15,mie 16,Mayormente soleado,38,25,6,17,SE ,19,ESE ,24,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+16,jue 03,Parcialmente nublado,38,26,15,13,SE ,11,SSE ,31,33,Extremo,0 de 11,06:22:00,20:00:00,21:50:00,08:26:00,Gibosa menguante
+17,vie 04,Mayormente soleado,40,27,0,8,SSE ,12,SE ,26,26,Extremo,0 de 11,06:23:00,19:59:00,22:22:00,09:37:00,Gibosa menguante
+18,sab 05,Soleado,42,27,0,9,SE ,12,S ,20,19,Extremo,0 de 11,06:23:00,19:58:00,22:53:00,10:45:00,Gibosa menguante
+19,dom 06,Soleado,43,27,0,11,N ,13,S ,15,17,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+20,lun 07,Soleado,42,28,3,17,ONO ,18,ONO ,16,20,Extremo,0 de 11,06:25:00,19:57:00,23:57:00,12:55:00,Gibosa menguante
+21,mar 08,Parcialmente nublado,41,27,2,18,ONO ,20,ONO ,18,23,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+22,mie 09,Parcialmente nublado,41,27,2,17,ONO ,19,O ,19,22,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+23,jue 10,Mayormente soleado,42,27,0,17,NO ,16,ONO ,17,18,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+24,vie 11,Parcialmente nublado,42,27,2,13,NNO ,15,E ,16,19,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+25,sab 12,Parcialmente nublado,41,27,6,19,ESE ,18,E ,19,24,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+26,dom 13,Mayormente soleado,40,26,7,18,ESE ,20,ESE ,21,27,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+27,lun 14,Mayormente soleado,38,25,3,20,ESE ,20,ESE ,25,28,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+28,mar 15,Parcialmente nublado,38,25,3,18,ESE ,19,ESE ,25,29,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+29,mie 16,Mayormente soleado,38,25,4,17,ESE ,19,ESE ,24,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:21:00,Nueva
+30,jue 17,Parcialmente nublado,38,25,0,18,ESE ,19,ESE ,24,27,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+31,vie 04,Soleado,40,26,0,10,SSE ,13,SE ,22,25,Extremo,0 de 11,06:23:00,19:59:00,22:22:00,09:37:00,Gibosa menguante
+32,sab 05,Soleado,42,27,0,10,SE ,10,SE ,20,19,Extremo,0 de 11,06:23:00,19:59:00,22:53:00,10:45:00,Gibosa menguante
+33,dom 06,Soleado,43,27,0,11,SE ,13,SSE ,17,19,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+34,lun 07,Mayormente soleado,42,27,9,17,O ,19,ONO ,18,25,Extremo,0 de 11,06:25:00,19:57:00,23:57:00,12:55:00,Gibosa menguante
+35,mar 08,Parcialmente nublado,41,27,2,17,ONO ,21,O ,22,26,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+36,mie 09,Mayormente soleado,40,27,2,17,ONO ,16,O ,20,22,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+37,jue 10,Parcialmente nublado,41,27,8,17,ONO ,21,O ,18,26,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+38,vie 11,Parcialmente nublado,41,27,4,14,ONO ,15,O ,20,24,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+39,sab 12,Parcialmente nublado,41,27,1,14,ESE ,16,ESE ,20,25,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+40,dom 13,Parcialmente nublado,40,26,11,14,SE ,15,ESE ,22,27,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+41,lun 14,Parcialmente nublado,39,26,18,17,ESE ,17,E ,24,29,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+42,mar 15,Parcialmente nublado,38,25,5,18,ESE ,18,ESE ,26,27,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+43,mie 16,Mayormente soleado,38,25,8,17,ESE ,19,ESE ,24,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+44,jue 17,Mayormente soleado,38,26,7,15,SE ,16,SE ,25,28,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+45,vie 18,Mayormente soleado,38,25,5,14,SE ,16,ESE ,24,28,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+46,sab 05,Soleado,42,27,0,9,SE ,10,SSE ,23,20,Extremo,0 de 11,06:23:00,19:58:00,22:53:00,10:45:00,Gibosa menguante
+47,dom 06,Mayormente soleado,43,28,0,11,SO ,16,SSO ,18,19,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+48,lun 07,Mayormente soleado,42,27,5,18,ONO ,19,ONO ,18,28,Extremo,0 de 11,06:25:00,19:57:00,23:57:00,12:55:00,Gibosa menguante
+49,mar 08,Parcialmente nublado,41,27,4,17,ONO ,21,O ,23,24,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+50,mie 09,Mayormente soleado,41,26,2,16,ONO ,20,O ,19,24,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+51,jue 10,Mayormente soleado,40,27,10,17,ONO ,23,O ,21,28,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+52,vie 11,Parcialmente nublado,40,27,9,14,O ,17,O ,22,27,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:00:00,Cuarto menguante
+53,sab 12,Mayormente soleado,41,26,3,13,ONO ,13,O ,22,26,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:52:00,Cuarto menguante
+54,dom 13,Mayormente soleado,40,26,6,15,SE ,16,E ,22,27,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+55,lun 14,Mayormente soleado,39,25,18,17,ESE ,18,ESE ,24,29,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+56,mar 15,Mayormente soleado,38,25,6,18,ESE ,18,ESE ,26,30,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+57,mie 16,Mayormente soleado,38,25,11,17,ESE ,18,ESE ,26,31,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:21:00,Nueva
+58,jue 17,Mayormente soleado,37,25,4,17,SE ,18,ESE ,28,32,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+59,vie 18,Parcialmente nublado,38,25,11,15,SE ,16,SE ,28,32,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+60,sab 19,Parcialmente nublado,38,25,7,17,SE ,18,ESE ,29,32,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+61,dom 06,Soleado,43,28,0,9,NO ,17,SO ,13,17,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+62,lun 07,Mayormente soleado,43,28,9,14,NO ,23,NO ,16,26,Extremo,0 de 11,06:25:00,19:57:00,23:58:00,12:55:00,Gibosa menguante
+63,mar 08,Parcialmente nublado,40,27,7,15,ONO ,21,O ,24,26,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+64,mie 09,Parcialmente nublado,40,27,4,15,ONO ,21,O ,23,27,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+65,jue 10,Mayormente soleado,40,26,19,15,ONO ,21,O ,23,31,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+66,vie 11,Parcialmente nublado,40,26,7,14,ONO ,18,O ,24,29,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+67,sab 12,Mayormente soleado,40,26,6,12,O ,13,SO ,24,30,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+68,dom 13,Parcialmente nublado,39,26,7,13,SSE ,14,ESE ,26,30,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+69,lun 14,Mayormente soleado,39,26,18,16,ESE ,17,ESE ,25,29,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+70,mar 15,Mayormente soleado,39,26,7,14,ESE ,17,ESE ,26,28,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+71,mie 16,Soleado,40,26,6,15,SE ,16,ESE ,25,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+72,jue 17,Mayormente soleado,40,26,2,17,SE ,17,ESE ,23,26,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+73,vie 18,Mayormente soleado,39,25,9,15,SE ,16,ESE ,24,28,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+74,sab 19,Mayormente soleado,39,25,10,15,SE ,17,ESE ,26,30,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+75,dom 20,Parcialmente nublado,38,25,12,16,SE ,17,ESE ,27,31,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+76,lun 07,Mayormente soleado,42,27,4,15,NNO ,29,NO ,16,32,Extremo,0 de 11,06:25:00,19:57:00,23:58:00,12:55:00,Gibosa menguante
+77,mar 08,Parcialmente nublado,39,26,9,14,ONO ,24,ONO ,27,28,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+78,mie 09,Mayormente soleado,40,26,4,16,ONO ,24,O ,24,31,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+79,jue 10,Parcialmente nublado,39,26,5,19,ONO ,20,OSO ,26,32,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+80,vie 11,Parcialmente nublado,39,26,3,15,O ,20,O ,26,32,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+81,sab 12,Parcialmente nublado,39,26,8,12,O ,14,OSO ,27,32,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+82,dom 13,Parcialmente nublado,39,26,15,11,SSE ,12,ESE ,28,31,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+83,lun 14,Mayormente soleado,39,26,20,17,ESE ,16,E ,26,28,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+84,mar 15,Mayormente soleado,39,26,2,15,ESE ,15,ESE ,25,26,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+85,mie 16,Soleado,40,26,10,12,SE ,13,ESE ,23,25,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+86,jue 17,Mayormente soleado,40,25,5,14,SE ,17,ESE ,22,28,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+87,vie 18,Mayormente soleado,40,25,4,14,SE ,16,ESE ,24,28,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+88,sab 19,Mayormente soleado,39,25,14,14,SE ,16,SE ,25,30,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+89,dom 20,Parcialmente nublado,39,25,17,16,SE ,16,ESE ,26,31,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+90,lun 21,Mayormente soleado,38,25,13,15,SE ,17,ESE ,29,33,10 de 11,0 de 11,06:34:00,19:43:00,11:12:00,22:32:00,Nueva visible
+91,mar 08,Parcialmente nublado,40,27,3,13,ONO ,28,ONO ,27,28,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+92,mie 09,Parcialmente nublado,40,27,5,16,ONO ,26,O ,25,29,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+93,jue 10,Parcialmente nublado,39,26,4,15,ONO ,23,OSO ,26,35,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+94,vie 11,Parcialmente nublado,38,25,11,13,O ,19,O ,29,36,10 de 11,0 de 11,06:27:00,19:53:00,01:59:00,17:00:00,Cuarto menguante
+95,sab 12,Parcialmente nublado,38,25,15,11,O ,15,SO ,30,39,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:52:00,Cuarto menguante
+96,dom 13,Mayormente soleado,38,25,14,10,SSE ,13,N ,33,35,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+97,lun 14,Soleado,39,25,9,16,ESE ,18,E ,26,26,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+98,mar 15,Parcialmente nublado,39,26,2,14,ESE ,14,ESE ,24,26,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+99,mie 16,Soleado,40,26,2,10,SE ,12,ESE ,23,23,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:21:00,Nueva
+100,jue 17,Mayormente soleado,41,27,8,12,SE ,16,SE ,20,24,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+101,vie 18,Mayormente soleado,40,26,7,13,SE ,16,ESE ,21,29,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+102,sab 19,Parcialmente nublado,39,26,19,16,ESE ,17,ESE ,25,29,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+103,dom 20,Parcialmente nublado,39,26,2,15,SE ,17,ESE ,25,29,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+104,lun 21,Mayormente soleado,38,25,12,15,SE ,17,ESE ,26,29,10 de 11,0 de 11,06:34:00,19:43:00,11:12:00,22:32:00,Nueva visible
+105,mar 22,Mayormente soleado,38,25,5,15,ESE ,16,ESE ,26,30,10 de 11,0 de 11,06:34:00,19:41:00,12:11:00,23:03:00,Nueva visible
+106,mie 09,Soleado,40,27,3,19,ONO ,23,ONO ,26,30,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+107,jue 10,Mayormente soleado,39,26,1,18,ONO ,23,O ,25,31,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+108,vie 11,Parcialmente nublado,38,25,8,15,ONO ,25,O ,27,37,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+109,sab 12,Parcialmente nublado,37,24,9,14,O ,20,OSO ,31,42,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+110,dom 13,Mayormente soleado,37,25,16,9,S ,15,NO ,35,43,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+111,lun 14,Mayormente soleado,38,26,14,16,E ,19,E ,31,27,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+112,mar 15,Mayormente soleado,39,25,0,16,ESE ,16,ESE ,23,26,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+113,mie 16,Soleado,39,26,3,11,SE ,11,E ,24,25,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+114,jue 17,Soleado,40,26,3,12,SSE ,14,SE ,21,25,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+115,vie 18,Parcialmente nublado,40,26,4,12,SSO ,18,SSE ,22,27,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:15:00,Nueva visible
+116,sab 19,Parcialmente nublado,40,26,6,14,S ,17,SE ,23,28,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+117,dom 20,Parcialmente nublado,39,25,21,15,SE ,18,E ,25,30,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+118,lun 21,Parcialmente nublado,38,24,4,17,ESE ,19,E ,26,30,10 de 11,0 de 11,06:34:00,19:43:00,11:13:00,22:32:00,Nueva visible
+119,mar 22,Parcialmente nublado,38,24,3,15,ESE ,18,E ,27,30,10 de 11,0 de 11,06:34:00,19:42:00,12:11:00,23:03:00,Nueva visible
+120,mie 23,Mayormente soleado,38,24,9,17,ESE ,19,ESE ,26,32,10 de 11,0 de 11,06:35:00,19:40:00,13:13:00,23:40:00,Cuarto creciente
+121,jue 10,Parcialmente nublado,39,26,15,18,ONO ,26,O ,27,31,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+122,vie 11,Parcialmente nublado,37,25,10,15,ONO ,27,O ,28,38,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+123,sab 12,Parcialmente nublado,36,24,2,15,O ,19,O ,33,40,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+124,dom 13,Parcialmente nublado,37,24,15,10,OSO ,14,NNO ,35,44,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+125,lun 14,Mayormente soleado,37,25,24,21,E ,22,ENE ,33,35,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+126,mar 15,Mayormente soleado,37,25,2,18,ESE ,18,ESE ,29,32,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+127,mie 16,Mayormente soleado,38,25,0,13,ESE ,13,E ,27,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:21:00,Nueva
+128,jue 17,Soleado,39,25,5,12,SE ,15,ENE ,24,29,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+129,vie 18,Parcialmente nublado,39,25,10,16,ESE ,18,ENE ,25,33,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+130,sab 19,Parcialmente nublado,37,25,14,15,ESE ,17,ENE ,29,33,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+131,dom 20,Parcialmente nublado,38,25,12,15,SE ,17,E ,29,34,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+132,lun 21,Parcialmente nublado,37,25,9,17,ESE ,19,ESE ,29,32,10 de 11,0 de 11,06:34:00,19:43:00,11:12:00,22:32:00,Nueva visible
+133,mar 22,Mayormente soleado,37,25,9,17,ESE ,20,E ,28,30,10 de 11,0 de 11,06:34:00,19:41:00,12:11:00,23:03:00,Nueva visible
+134,mie 23,Mayormente soleado,37,25,9,18,ESE ,19,E ,27,31,10 de 11,0 de 11,06:35:00,19:40:00,13:13:00,23:40:00,Cuarto creciente
+135,jue 24,Mayormente soleado,37,24,11,17,ESE ,19,E ,27,31,10 de 11,0 de 11,06:36:00,19:39:00,14:17:00,,Gibosa creciente
+136,vie 11,Nubes por la mañana / Sol por la tarde,36,24,15,18,O ,24,O ,35,40,Extremo,0 de 11,06:28:00,19:53:00,01:59:00,17:01:00,Cuarto menguante
+137,sab 12,Parcialmente nublado,36,25,1,15,O ,22,OSO ,34,37,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+138,dom 13,Parcialmente nublado,36,24,15,13,OSO ,16,NO ,33,42,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+139,lun 14,Mayormente soleado,36,24,17,25,E ,25,E ,35,36,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+140,mar 15,Mayormente soleado,37,25,2,20,ESE ,17,ESE ,30,31,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+141,mie 16,Soleado,38,25,0,12,SE ,12,SSE ,27,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+142,jue 17,Mayormente soleado,39,25,0,12,SE ,15,E ,23,29,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+143,vie 18,Mayormente soleado,39,25,3,13,SE ,16,E ,25,30,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:15:00,Nueva visible
+144,sab 19,Mayormente soleado,38,25,6,14,SSE ,16,E ,26,29,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:40:00,Nueva visible
+145,dom 20,Mayormente soleado,38,25,3,16,SE ,18,ESE ,25,29,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+146,lun 21,Mayormente soleado,38,25,3,18,ESE ,21,ESE ,25,30,10 de 11,0 de 11,06:34:00,19:43:00,11:13:00,22:32:00,Nueva visible
+147,mar 22,Mayormente soleado,37,24,0,18,ESE ,20,E ,26,31,10 de 11,0 de 11,06:35:00,19:42:00,12:11:00,23:03:00,Nueva visible
+148,mie 23,Mayormente soleado,37,24,10,16,ESE ,18,ESE ,27,30,10 de 11,0 de 11,06:35:00,19:40:00,13:13:00,23:40:00,Cuarto creciente
+149,jue 24,Mayormente soleado,37,24,0,15,ESE ,18,E ,26,29,10 de 11,0 de 11,06:36:00,19:39:00,14:17:00,,Gibosa creciente
+150,vie 25,Parcialmente nublado,37,24,23,17,ESE ,17,E ,26,30,10 de 11,0 de 11,06:36:00,19:38:00,15:24:00,00:23:00,Gibosa creciente
+151,sab 12,Mayormente soleado,37,26,2,16,OSO ,19,OSO ,32,32,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:53:00,Cuarto menguante
+152,dom 13,Parcialmente nublado,37,24,15,15,O ,17,O ,30,39,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+153,lun 14,Parcialmente nublado,36,24,20,29,E ,31,E ,36,39,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+154,mar 15,Soleado,37,24,0,23,ESE ,19,ESE ,32,33,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+155,mie 16,Soleado,37,25,0,11,SE ,12,SE ,28,27,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:21:00,Nueva
+156,jue 17,Mayormente soleado,39,26,4,12,SSE ,14,ESE ,23,26,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+157,vie 18,Mayormente soleado,39,25,12,15,SE ,17,ESE ,23,27,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+158,sab 19,Mayormente soleado,38,25,8,15,SSE ,18,ESE ,26,32,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+159,dom 20,Mayormente soleado,38,25,7,19,SE ,22,ESE ,29,33,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+160,lun 21,Mayormente soleado,37,25,5,20,SE ,22,ESE ,28,34,10 de 11,0 de 11,06:34:00,19:43:00,11:12:00,22:32:00,Nueva visible
+161,mar 22,Mayormente soleado,37,24,4,20,ESE ,23,ESE ,30,35,10 de 11,0 de 11,06:34:00,19:41:00,12:11:00,23:03:00,Nueva visible
+162,mie 23,Mayormente soleado,37,24,2,19,ESE ,21,E ,30,34,10 de 11,0 de 11,06:35:00,19:40:00,13:13:00,23:39:00,Cuarto creciente
+163,jue 24,Parcialmente nublado,37,24,5,17,ESE ,19,E ,29,32,10 de 11,0 de 11,06:36:00,19:39:00,14:17:00,,Gibosa creciente
+164,vie 25,Parcialmente nublado,37,24,23,15,ESE ,19,E ,29,35,10 de 11,0 de 11,06:36:00,19:38:00,15:24:00,00:23:00,Gibosa creciente
+165,sab 26,Parcialmente nublado,37,24,10,17,SE ,20,ESE ,29,34,10 de 11,0 de 11,06:37:00,19:37:00,16:28:00,01:16:00,Gibosa creciente
+166,dom 13,Parcialmente nublado,36,24,15,19,O ,16,ONO ,30,37,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+167,lun 14,Parcialmente nublado,36,24,24,29,E ,28,E ,37,37,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+168,mar 15,Soleado,37,25,0,21,ESE ,21,ESE ,30,33,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+169,mie 16,Soleado,37,25,0,11,SE ,12,SE ,29,26,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:22:00,Nueva
+170,jue 17,Mayormente soleado,38,25,3,12,SSE ,14,E ,23,29,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+171,vie 18,Mayormente soleado,38,25,13,16,SE ,17,SE ,24,26,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+172,sab 19,Mayormente soleado,38,25,6,17,SE ,22,ESE ,25,31,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
+173,dom 20,Parcialmente nublado,36,24,17,21,SE ,23,ESE ,31,36,Extremo,0 de 11,06:33:00,19:44:00,10:16:00,22:05:00,Nueva visible
+174,lun 21,Mayormente soleado,36,24,14,21,SE ,22,ESE ,31,39,10 de 11,0 de 11,06:34:00,19:43:00,11:12:00,22:32:00,Nueva visible
+175,mar 22,Mayormente soleado,36,24,3,20,ESE ,21,E ,31,38,10 de 11,0 de 11,06:34:00,19:41:00,12:11:00,23:03:00,Nueva visible
+176,mie 23,Parcialmente nublado,36,24,4,19,ESE ,21,E ,32,36,10 de 11,0 de 11,06:35:00,19:40:00,13:13:00,23:39:00,Cuarto creciente
+177,jue 24,Parcialmente nublado,37,24,7,17,ESE ,19,ESE ,31,33,10 de 11,0 de 11,06:36:00,19:39:00,14:17:00,,Gibosa creciente
+178,vie 25,Mayormente soleado,37,24,6,15,ESE ,18,ESE ,28,32,10 de 11,0 de 11,06:36:00,19:38:00,15:24:00,00:23:00,Gibosa creciente
+179,sab 26,Mayormente soleado,37,24,7,16,SE ,17,ESE ,28,31,10 de 11,0 de 11,06:37:00,19:37:00,16:28:00,01:16:00,Gibosa creciente
+180,dom 27,Mayormente soleado,38,25,7,14,SE ,17,ESE ,27,31,10 de 11,0 de 11,06:38:00,19:36:00,17:29:00,02:19:00,Gibosa creciente

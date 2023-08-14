@@ -1,0 +1,16 @@
+Fecha,Pronostico,Temperatura maxima,Temperatura minima,Probabilidad de lluvia,Viento en el dia,Direccion viento dia,Viento en la noche,Direccion viento noche,Humedad dia,Humedad noche,Indice UV dia,Indice UV noche,Amanecer,Puesta solar,Salida lunar,Puesta lunar,Fase lunar
+sab 05,Soleado,42,27,0,9,SE ,10,SSE ,23,20,Extremo,0 de 11,06:23:00,19:58:00,22:53:00,10:45:00,Gibosa menguante
+dom 06,Mayormente soleado,43,28,0,11,SO ,16,SSO ,18,19,Extremo,0 de 11,06:24:00,19:58:00,23:25:00,11:51:00,Gibosa menguante
+lun 07,Mayormente soleado,42,27,5,18,ONO ,19,ONO ,18,28,Extremo,0 de 11,06:25:00,19:57:00,23:57:00,12:55:00,Gibosa menguante
+mar 08,Parcialmente nublado,41,27,4,17,ONO ,21,O ,23,24,Extremo,0 de 11,06:25:00,19:56:00,,13:59:00,Menguante
+mie 09,Mayormente soleado,41,26,2,16,ONO ,20,O ,19,24,Extremo,0 de 11,06:26:00,19:55:00,00:33:00,15:02:00,Cuarto menguante
+jue 10,Mayormente soleado,40,27,10,17,ONO ,23,O ,21,28,Extremo,0 de 11,06:27:00,19:54:00,01:14:00,16:03:00,Cuarto menguante
+vie 11,Parcialmente nublado,40,27,9,14,O ,17,O ,22,27,Extremo,0 de 11,06:27:00,19:53:00,01:59:00,17:00:00,Cuarto menguante
+sab 12,Mayormente soleado,41,26,3,13,ONO ,13,O ,22,26,Extremo,0 de 11,06:28:00,19:52:00,02:50:00,17:52:00,Cuarto menguante
+dom 13,Mayormente soleado,40,26,6,15,SE ,16,E ,22,27,Extremo,0 de 11,06:29:00,19:51:00,03:45:00,18:38:00,Cuarto menguante
+lun 14,Mayormente soleado,39,25,18,17,ESE ,18,ESE ,24,29,Extremo,0 de 11,06:29:00,19:50:00,04:42:00,19:18:00,Cuarto menguante
+mar 15,Mayormente soleado,38,25,6,18,ESE ,18,ESE ,26,30,Extremo,0 de 11,06:30:00,19:49:00,05:40:00,19:52:00,Nueva
+mie 16,Mayormente soleado,38,25,11,17,ESE ,18,ESE ,26,31,Extremo,0 de 11,06:31:00,19:48:00,06:37:00,20:21:00,Nueva
+jue 17,Mayormente soleado,37,25,4,17,SE ,18,ESE ,28,32,Extremo,0 de 11,06:31:00,19:47:00,07:33:00,20:49:00,Nueva visible
+vie 18,Parcialmente nublado,38,25,11,15,SE ,16,SE ,28,32,Extremo,0 de 11,06:32:00,19:46:00,08:27:00,21:14:00,Nueva visible
+sab 19,Parcialmente nublado,38,25,7,17,SE ,18,ESE ,29,32,Extremo,0 de 11,06:33:00,19:45:00,09:22:00,21:39:00,Nueva visible
